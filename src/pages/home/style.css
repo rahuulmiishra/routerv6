@@ -1,0 +1,17 @@
+
+
+
+.list-card {
+    width:80vw;
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+    border-radius: 6px;
+    box-shadow:2px 2px 4px #000;
+    align-items: flex-start;
+}
+
+.list-card span{
+    text-align: left;
+}
